@@ -19,4 +19,4 @@ This repository contains all of the source code used in the course called HTML, 
 * [Module-2](https://adeshyadav2020.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
 * [Module-3](https://adeshyadav2020.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
 * [Module-4](https://adeshyadav2020.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://adeshyadav2020.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+* [Module-5](https://adeshyadav2020.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
