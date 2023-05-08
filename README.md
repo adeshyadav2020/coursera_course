@@ -3,7 +3,7 @@ HTML provides the basic structure of sites, which is enhanced and modified by ot
 CSS is used to control presentation, formatting, and layout.
 JavaScript is used to control the behavior of different elements.
 
-This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
+This Repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
 ![Course Completion certificate](https://github.com/siddartha19/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/blob/master/Certificate.PNG)
 
